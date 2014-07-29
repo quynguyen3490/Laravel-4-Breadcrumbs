@@ -37,7 +37,7 @@ class Breadcrumbs {
 
 		if (!$cssClasses)
 		{
-			$this->setCssClasses('breadcrumbs');
+			$this->setCssClasses('breadcrumb');
 		}
 		else
 		{
